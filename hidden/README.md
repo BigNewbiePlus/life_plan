@@ -1,4 +1,4 @@
-* [梦想清单](/src/lift_plan.md)
+* [梦想清单](/hidden/src/life_plan.md)
     * 学习
         * 成为一个算法工程师专家
         * 成为一个刷题高手
